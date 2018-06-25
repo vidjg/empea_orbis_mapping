@@ -1,0 +1,980 @@
+original_name|country_code|mapped_name|mapping_score
+3 Oaks Liberia|LR||
+31 Hui Yi|CN||
+360 Health|CN|KANGXUN 360 HEALTH MANAGEMENT LIMITED|scoreC
+3VJIA|CN||
+4th Paradigm|CN||
+51offer|CN|SHANGHAI HUIZI BUSINESS CONSULTANCY CO., LTD|scoreE
+6B Engineering and Metal Works|MW||
+8 Digits|TR|EPIGRAF TEKNOLOJI SAN TIC AS|scoreE
+AAR|AFR|AAR CORP|scoreA
+Abagold|ZA|ABAGOLD LTD|scoreA
+Abra|SG|ABRA SERVICES PTE. LTD.|scoreB
+Abril|BR|ABRIL COMUNICACOES S/A (Previous name: ABRIL SA)|scoreA
+Abuloma Limited|NG||
+ACCELERIX|CN||
+Access Finance|MG||
+Access Universe|CN||
+ACL Teslim|TR||
+Acorn|TD||
+Acover|CD||
+Acuvu|CN|JOHNSON & JOHNSON VISION CARE (SHANGHAI) LIMITED|scoreE
+ACWA  Bokpoort|ZA|ACWA POWER BOKPOORT HOLDINGS (PTY) LTD|scoreB
+Adaro|ID|ADARO ENERGY TBK., PT|scoreB
+Adex Advertising Express Limited|ZM|EXPRESS WHOLESALERS LIMITED|scoreE
+ADN|BD||
+Adriatica Conect|ME||
+Advantek|KH||
+Aeroflex|IN|AEROFLEX INDUSTRIES LIMITED|scoreB
+Afbeko|LR||
+Africa Terminals Co|NG|AFRICA TERMINALS LTD|scoreB
+africaJUICE|ET||
+African Pride|SL||
+AfricaTel (PT)|SSA|AFRICATEL GMBH & CO. KG|scoreB
+Afrique Emergenc|CI|SOCIETE AFRIQUE EMERGENT SARL|scoreB
+Afromeric|SL||
+AGH labels|MX||
+Agora Mall Ltd|NG||
+Agrifos Kingpie Limited|ZM||
+Agrow|PK|AGROW LIMITED|scoreA
+Aguas Mexicans|MX|AGUAS INDUSTRIALES MEXICANAS SA|scoreB
+AirGo|GR||
+Airport Shoppes|PR|AIRPORT SHOPPES CORP|scoreA
+AirTV|CN|AIRTV UNITED MEDIA & CULTURE CO., LTD.|scoreD
+AIST-Russia|RU|AIREST RUSSIA OOO|scoreD
+Aizant|IN|AIZANT PHARMACEUTICALS PRIVATE LIMITED|scoreB
+Ajani|CD||
+AKG Gazbeton|ECS|AKG GAZBETON ISLETMELERI SANAYI VE TICARET ANONIM SIRKETI|scoreC
+Alazani 2|GE|ALAZANI 2|scoreA
+Alcance Integral - GRS|GT||
+Allied Catering|SSA|ALLIED CATERING LIMITED|scoreA
+Alternativa|US|ALTERNATIVA LLC|scoreA
+AltSchool|WLD|ALTSCHOOL|scoreA
+Amak|EG|AMAK COMPANY FOR DRILLING AND OIL SERVICES (Alias: AMAK PETROLEUM)|scoreB
+Amandla Water|ZA|AMANDLA WATER JETTING CC|scoreB
+Ambar Industria|BR|AMBAR INDUSTRIA E COMERCIO LTDA - ME|scoreB
+Amerimed|MX|AMERIMED PUERTO VALLARTA SA|scoreA
+AMK MFI|KH||
+Amoun Pharma|EG|AMOUN PHARMACEUTICALS COMPANY SAE (Alias: AMOUN)|scoreB
+AMR|IN|AMR INDIA LIMITED|scoreB
+Andela|NG|ANDELAJ LTD|scoreB
+Aninwah|GH||
+Anoud|PS|ANOUD GAMES INTERNATIONAL LTD|scoreD
+Anti-cancer Guard|CN||
+Appscotch|RU||
+Aqua Tudaqul|UZ|AQUA VIP|scoreD
+Aqualyng Holding|CN|AQUALYNG BEIJING LTD.|scoreD
+Arabela|MX|ARABELA SA DE CV|scoreA
+Arabia Weather|AE||
+Archindra JustEa|IN||
+AREFCO Acapulco|ZA||
+Arinpa Homebuild|MX||
+Arnur Credit|KZ|ARNUR TREID|scoreC
+Arohan|IN|AROHAN CONSULTANTS PRIVATE LIMITED|scoreB
+Arohan|IN|AROHAN CONSULTANTS PRIVATE LIMITED|scoreB
+Arzum|TR|ARZUM SACLI SEKERCI ARZUM|scoreE
+Ashoka Bhandara|IN|ASHOKA HIGHWAYS (BHANDARA) LIMITED|scoreB
+Ashoka Concess|IN|ASHOKA CONCESSIONS LIMITED|scoreC
+Asia Potash Grou|LA||
+Asiasoft|TH|ASIASOFT CORPORATION PUBLIC COMPANY LIMITED|scoreB
+Asirvad|IN|ASIRVAD MICROFINANCE PRIVATE LIMITED|scoreB
+Assured Labor|MX||
+Astrim|ZA|ASTRIM HOLDINGS (PTY) LTD|scoreB
+Asusu Niger|NE||
+AT ASSAD|TN||
+ATA Hospitals|TR||
+Atlas Renewable Energy|LAC|ATLAS RENEWABLE ENERGY|scoreA
+Atopco|CN|TOPCO SCIENTIFIC (SHANGHAI) CO., LTD.|scoreE
+Aurowell|IN||
+Automative Solns|KE|MASTER CLASS AUTOMATIVE SOLUTIONS LIMITED|scoreE
+Aver|SG|AVER ADVANCE PTE. LTD.|scoreB
+AWI|CI||
+Awind Holding|TW||
+Axxend|CI||
+Azura Power Holdings Ltd|NG|AZURA POWER HOLDINGS LTD|scoreA
+BAC Ukraine|UA|DC UKRAINE TOV|scoreC
+BACP Sofipe|BF||
+Bac-Pol|PL|BAC-POL S.A.|scoreA
+Balik|KZ|BALIKHOR|scoreE
+Baltic Pork|RU|JOINT STOCK COMPANY BALTIC PLUS|scoreC
+BAN|CN|YOU YUAN BAN GONG LIAN MENG ( TIAN JIN ) GU FEN YOU XIAN GONG SI|scoreE
+Banco Promerica DR|DO|BANCO PANAMERICANO|scoreC
+Bancofianza|PE||
+Bank Evropeiskij|RU|EVROPEISKII BANK DANNYKH - MOSCOW (EUROPAISCHE DATENBANK - MOSKAU) (Alias: EVROPEISKII BANK DANNYKH - MOSCOW)|scoreB
+Baru|CO|BARU LTDA|scoreA
+BBI Plus|RS||
+BCR Rwanda|RW|BCEG (RWANDA) LTD|scoreC
+BD Agri Tech C|CN||
+Be Fit|CA|EAT EXERCISE & BE FIT INC|scoreB
+Beijing Biocytog|CN|BEIJING BIOMON CO.,LTD|scoreC
+Belle|CN|BELLE LIMITED|scoreA
+Beloor Bayir|IN|BELOORBAYIR BIOTECH LIMITED|scoreB
+Belstar|IN|BELSTAR INVESTMENT AND FINANCE PRIVATE LIMITED|scoreE
+BenQ Medical|CN||
+Berggram|WLD|BERGGRAN LIMITED|scoreB
+BHI|IN|BHI LIMITED|scoreA
+Big Chefs|TR|BUYUK SEFLER GIDA TURIZM TEKSTIL DANISMANLIK ORGANIZASYON EGITIM SANAYI VE TICARET AS|scoreE
+Biocytogen|CN||
+BioGill|AU|BIOGILL ENVIRONMENTAL PTY LIMITED|scoreB
+Birima|SN||
+Bite|ECA|BITE GMBH|scoreA
+BLL Mezz|RU|BIZNESLAINLOGISTIK (Alias: BLL)|scoreB
+Bloomboard|WLD|BLOOMBOARD SP. Z O.O.|scoreA
+Bo s Coffee|PH|ZEN'S COFFEE N FLOWERS CORP.|scoreD
+BOA Kenya|KE|BOC KENYA LTD|scoreB
+BOAK|KE||
+BOAT|TZ|BOAT TRAVELS (T) LIMITED|scoreC
+BOAU|UG||
+"""Border Media Partners (""""BMP"""")"""|MX|SOCIAL MEDIA PARTNERS SA DE CV|scoreD
+Botofogo|BR|BOTOFOGA LIMITED|scoreC
+BRA|BR|NAT-PNX VIAGENS E TURISMO LTDA (Alias: BRA NATAL)|scoreA
+Brainly|WLD|BRAINLY SP. Z O.O.|scoreA
+Brandcorp|ZA|BRANDCORP (PTY) LTD|scoreA
+Brawijaya|ID|BRAWIJAYA APARTMENT|scoreB
+BRICo|KH||
+Brightbytes|WLD|BRIGHTBYTES INC|scoreA
+Brilliant|WLD|BRILLIANT AG|scoreA
+Brookfld Hilltop|SL||
+Brookhouse|KE|BROOKHOUSE SUPERMARKET|scoreB
+Brookside|KE|BROOKSIDE GROUP LIMITED|scoreB
+Buildmax|ZA|BUILDMAX LIMITED|scoreA
+Buildworks|ZA|CONSOLIDATED INFRASTRUCTURE GROUP LIMITED (Previous name: BUILDWORKS GROUP LIMITED)|scoreB
+Bunker's Group|MX|BUNKER S|scoreB
+Bunnings HHL|VU||
+Burren Energy|TM||
+Busby|ZA|BUSBY (PTY) LTD|scoreA
+Busby|ZA|BUSBY (PTY) LTD|scoreA
+BusLeasingKazak|KZ||
+C Pharmaceutical|CN||
+Cables Holding|KE|CABLE HOLDINGS (KENYA) LTD|scoreB
+Caijing|CN|CAIJING( BEIJING )YINGSHI MANUFACTURE CENTER|scoreB
+CambridgeMedical|AE||
+Camran|ZM||
+Canvest|CN||
+CAOS Apparels|IN||
+CAP - Tunisia|TN|CAP TUNISIE|scoreA
+CAP Senegal|SN|CAPI SENEGAL|scoreC
+Capa de Ozono|MX|CAPA DE OZONO|scoreA
+Cape Olive|ZA|CAPE OLIVE PRODUCTS (PTY) LTD|scoreB
+Cape Pine|ZA|MTO FORESTRY (PTY) LTD (Alias: CAPE PINE)|scoreA
+CAPETEL|NG||
+Capic Hexagon|NG||
+Carbon Holdings|EG|CARBON HOLDINGS LTD (Alias: EGYPT CARBON HOLDINGS)|scoreA
+Carbon Holdings|EG|CARBON HOLDINGS LTD (Alias: EGYPT CARBON HOLDINGS)|scoreA
+CardTek|TR|KARTEK KART VE BILISIM TEKNOLOJILERI TICARET ANONIM SIRKETI|scoreE
+Caritas|PE|CARITAS ABANCAY|scoreA
+Carsing|CN||
+Carthero|IN|CARTHERO TECHNOLOGIES PRIVATE LIMITED|scoreB
+CBG Compagnie de Bois Du Gabon|GA|COMPAGNIE DES BOIS DU GABON|scoreB
+CCS Ceska|CZ|MTS CESKA SRO|scoreD
+CDH Holdings|CN||
+CEAL|MU|CEAL LTD|scoreA
+CeasarMex|MX||
+Cecilia|IN|CECILIA INFRASTRUCTURE LIMITED|scoreB
+CEECAT Finans|KY||
+CEECAT Holdings|KY||
+Cellcom Holdings|TN||
+Celsol|MX|CELSOL SA DE CV|scoreA
+Celtel|AFR|CEL TEL|scoreA
+CEMAR|BR|COMPANHIA ENERGETICA DO MARANHAO (Alias: CEMAR)|scoreA
+Cenpower Ltd|GH||
+Central Lav|BR|CENTRAL LAV MINAS GERAIS LTDA (Alias: CENTRAL LAV)|scoreA
+Central Parking|MX|CENTRAL PARKING SYSTEM MEXICO, S.A. DE C.V.|scoreB
+Centrale Laitier|MNA|CENTRALE DANONE SA (Previous name: SOCIETE CENTRALE LAITIERE SA)|scoreB
+Cepro|DZ|CEPRO|scoreA
+Ceprodel|NI||
+Ceramica S.A|RO|CERAMICA SA|scoreA
+CGE Grand|CN||
+Chanero|UA||
+Charlestown|KE||
+Chase Bank Ke|KE|CHASE BANK (KENYA) LIMITED|scoreB
+CHC China|CN|HUASU HOLDINGS CO., LTD. (Previous name: CHINA T.H. CO., LTD.)|scoreC
+Chemica Limited|PG|PETRO-CHEMICAL CO. LIMITED|scoreB
+Chilon Security Services|MW||
+China Digitone|CN||
+China Kanghui|CN|CHINA KANGHUI TRAVEL AGENCY CO.,LTD|scoreB
+China Tuna Industry Group Holdin|CN|CHINA INDUSTRY HOLDING GROUP LIMITED|scoreB
+Chuchujie|CN||
+Ciel Healthcare|MU|CIEL HEALTHCARE LIMITED|scoreA
+Ciel Healthcare|MU|CIEL HEALTHCARE LIMITED|scoreA
+CISG|CN||
+Citivox|MX||
+Ciudad Victoria|MX|LA PRIMAVERA CD VICTOR SA (Alias: LA PRIMAVERA DE CIUDAD VICTORIA SA DE CV)|scoreB
+CKC|EG||
+cKers|IN|CKERS FINANCE PRIVATE LIMITED|scoreB
+Cleanline Linen|LK||
+Cleopatra Hosp|EG|CLEOPATRA HOSPITAL|scoreC
+Clickonero|MX|GROUP BUYING GLOBAL OF MEXICO SA|scoreE
+Climb Credit|WLD|CLIMB CREDIT|scoreA
+CMF  STEOTI|TN|STE CMF DISTRIBUTION|scoreE
+COAC Jardin|PE||
+Codoon|CN|CHENGDU YUEDONG INFORMATION TECHNOLOGY CO., LTD|scoreE
+Coins|PH|GOLD COINS STEEL PHILS. CORPORATION|scoreE
+Comat|IN|COMAT TECHNOLOGIES PRIVATE LIMITED|scoreB
+Comunidades|MX|COMUNIDAD AC|scoreB
+Concord Enviro|IN|CONCORD ENVIRO SYSTEMS PRIVATE LIMITED|scoreB
+Connect|IN|CONNECT JAIPUR|scoreA
+Cont. Milano|MX||
+Continental Mach|LR|CONTINENTAL TRUSTEES LTD|scoreE
+Continental Outdoor Media|ZA|JCDECAUX SOUTH AFRICA (PTY) LTD (Previous name: CONTINENTAL OUTDOOR MEDIA (PTY) LTD)|scoreA
+Controladora II|MX|CONTROLADORA AT, S. A. P. I. DE C. V.|scoreD
+Convert.com|MX|CONVERTEX SA DE CV|scoreB
+Convertergy|CN|HANGZHOU HOYMILES CONVERTER TECHNOLOGY CO., LTD.|scoreE
+Cookhouse|ZA|NUMBER TWO PIGGERIES (PTY) LTD (Alias: COOKHOUSE PIGGERY)|scoreB
+Corner Insurance|NG|CORNERSTONE INSURANCE PLC|scoreC
+Cornerstone_CAPIC Fund|NG||
+Cosse-ter Ltd|RU|TEPLOENERGOREMONT (Alias: TER)|scoreB
+Cotech|CN|COTECH FILTER (BEIJING) CO., LTD.|scoreB
+CPS Building Con|IN||
+Crecer Bolivia|BO||
+Crederity|IN|ICREDERITY INFO SERVICES PRIVATE LIMITED|scoreE
+Credibility A.T|MX||
+CrediCampo|SV||
+Crezcamos|WLD|CREZCAMOS S.A.|scoreB
+Ctrip|CN|CTRIP|scoreA
+Cywee|TW|CYWEE INC.|scoreA
+Daawat|IN|DAAWAT FOODS LIMITED|scoreB
+DAC NPL Pool|CN||
+Dalio/Avis|CD||
+DalRybProm Fishing Company|RU|JSC FISHING COMPANY OCTOPUS|scoreB
+DataSpace|RU|DATASPACE PARTNERS LLC|scoreB
+DayHR|CN||
+DCM|EE|CERMETS DCM OU|scoreB
+Deacons|KE|DEACONS (EAST AFRICA) PLC (Previous name: DEACONS KENYA LIMITED)|scoreB
+Deep Drilling|MR||
+Delifrost|CR||
+Deltaridge|NG||
+DFM|ZA|ALMAZA COURT (PTY) LTD (Alias: DFM)|scoreA
+DGCity Beauty|CN||
+Dianwoba|CN||
+Diaspora Design|KE||
+Digital Domain|HK|DIGITAL DOMAIN MEDIA (HK) LIMITED|scoreC
+Ding Ji International|CN|DINGJIN INTERNATIONAL LIMITED|scoreA
+Directel|HK|DIRECTEX LIMITED|scoreB
+DISA|ECA|DOLPHIN INTEGRATION (Alias: DISA)|scoreA
+Distressed pool|CN||
+DIY|WLD|DIY POLAND SP. Z O.O.|scoreB
+Doga Schools|TR||
+Dominos Pizza|TR|PIZZA RESTAURANTLARI ANONIM SIRKETI|scoreE
+Douala Retail|CM|DOUAL' ART|scoreE
+Dr Pius Chilonda|ZA||
+Dream 11|US|DREAMS, INC.|scoreE
+Dreamlabs|CN||
+Dufa Romania SRL|RO|MFA SA MIZIL|scoreE
+DUMMY - Medall|IN||
+Durja|IN|DURJA VYAPAAR PRIVATE LIMITED|scoreB
+Dynamic FM|ZA|URI SHLOMO TRADE CC (Alias: DYNAMICA)|scoreB
+E2E infra|IN|AUROME INFRA PRIVATE LIMITED|scoreE
+Ealong Biotech|CN||
+Easyhin|CN||
+Eaton Towers Ltd|WLD|EATON TOWERS LIMITED|scoreA
+Ebes|BR|ONG ESTADO DE BEM ESTAR SOCIAL - EBES (Alias: EBES)|scoreA
+EcoBank Trans...|AFR|ECOBANK TRANSNATIONAL LIMITED|scoreD
+Ecospan|AM||
+Edmodo|WLD|EDMODO|scoreA
+Educents|WLD|EDUCENTS INC|scoreA
+EduPristine|IN|NEEV KNOWLEDGE MANAGEMENT PRIVATE LIMITED|scoreE
+EEA Kenya Ltd|KE|EEDI KENYA LIMITED|scoreC
+EFFCO Soln|TZ||
+Ehoutai|CN||
+eJiuPi|CN||
+Eleni Gabre|ET||
+Elohim|LR||
+Elris|KE|ELRIS COMPANY LIMITED|scoreB
+Elton Int|SSA|ELTON INTERNATIONAL LIMITED|scoreA
+EM Bonds|TR||
+Emilda C Kotokwa|ZA||
+Empower|US|EMPOWER FEDERAL CREDIT UNION (Alias: EMPOWER)|scoreA
+Empowerex Trd|ZM||
+Encognition|WLD|COGNITION CORP|scoreE
+Encube|IN|ENCUBE ETHICALS PRIVATE LIMITED|scoreB
+Engro Asahi|PK||
+EnviroServe|SSA|ENVRO SERVE (Alias: ENVIROSERVE)|scoreA
+"""Envizio, Inc."""|RU|ENVIZION|scoreB
+EPL|IN|EPL INDIA LIMITED|scoreB
+Equator Apparels|KE||
+Equitas MFI|IN|EQUITAS LEGAL|scoreE
+Ergos|IN|ERGOS LIFE SCIENCES PRIVATE LIMITED|scoreE
+ESPRIT Tunis|TN||
+Estrell Trading Co|MW||
+ETI (Ecobank)|TG||
+eTranzact G Ltd|NG|ETRANZACT|scoreB
+Ets BIS|CD||
+Europlan|RU|LIMITED LIABILITY COMPANY EUROPLAN|scoreA
+Everest Edusys|IN||
+Evolvence|MNA|EVOLVENCE CAPITAL LIMITED (Alias: EVOLVENCE GROUP)|scoreB
+Exact Sales|BR||
+Exim Bank Vietna|VN||
+ExpertPhoto|RU|LIMITED LIABILITY COMPANY EXPERT PROMO|scoreB
+Exploramed|CN||
+Extended Suites|MX|EXTENDED SUITES GLOBAL SOURCING SA DE CV|scoreC
+Extong|CN||
+Ezysolare|IN||
+Fabrar Rice|LR||
+Facility Management Co.|LR||
+FADES|BO||
+Fairfield|ZA|FAIRFIELD DAIRY (PTY) LTD|scoreB
+Falcon|CZ|FALCON MIMON, A.S.|scoreA
+Fasten|US|FASTEN INC|scoreA
+Fawaz Trading|CD||
+Fawry|EG|FAWRY BANKING & PAYMENT TECHNOLOGY SERVICES (Alias: FAWRY)|scoreA
+FDD|WLD|V.D.D. GMBH.|scoreA
+Fengguang BioFan|CN|FENG TAI XIAN KANG GUAN DA YAO FANG|scoreE
+FERCO|HN||
+Ferlo Societe|SN||
+FFM/FestivalMall|NG||
+FibreCo|ZA|FIBRE COM (PTY) LTD|scoreB
+Fibrex Angola|AO||
+Fifth Season|ZA|FIFTH SEASON INVESTMENTS 22 (PTY) LTD|scoreE
+Fillr|AU|THE TRUSTEE FOR THE FILLREED PROPERTY TRUST (Alias: FILLREED PTY LTD)|scoreE
+Finance Salone|SL||
+Finapack|MA|FINAPACK SA|scoreA
+Finestrella|MX|FINESTRELLA SAPI|scoreA
+Fintech Innovation Program|SG|JET FINTECH INNOVATIONS PTE. LTD.|scoreC
+First City Bank|NG|FIRST CITY MONUMENT BANK LTD|scoreB
+First Hydro FHN|NG||
+First Hydro FHN|NG||
+Flareum|IN|FLAREUM TECHNOLOGIES PRIVATE LIMITED|scoreB
+FLASHHOLD|CN||
+Flemingo|IN|FLEMINGO (DFS) PRIVATE LIMITED|scoreB
+Fluent City|WLD|FLUENT CITY|scoreA
+FM Plastic|BD|RFL PLASTIC LIMITED|scoreC
+Fogo de Chao|BR|FOGO'S CHURRASCARIA LTDA (Alias: FOGO DE CHAO)|scoreA
+Folti|KZ||
+Food Svc HORACEA|GE||
+Forecast|KE|FORECASTEL LIMITED|scoreB
+Frank & T Investment Limited|MW|PLENTATION HOUSE INVESTMENTS LIMITED|scoreD
+Fruehauf|MX|FRUEHAUF DE MEXICO SA DE CV|scoreB
+Funshion Network|CN|FUNXUN NETWORK COMPANY LIMITED|scoreC
+Futian (Midsino)|CN||
+Futurus|CN||
+FVCI|IN||
+Gameplay|RU|GAMEPLAY LLC|scoreA
+Gap Year Global|WLD|GAP YEAR GLOBAL INC|scoreA
+Garden City Business Park|KE|THE GARDEN OF EDEN BUSINESS PARK|scoreB
+Gate Healthcare Pak|PK|ACE HEALTHCARE (PVT.) LIMITED|scoreC
+GATEX|MG||
+G-banker|CN|G-BANKER.COM|scoreB
+GEB Gimnasios Americanos|MX||
+Gee Fresh|SL||
+Geeks Holding|AE||
+Geli|US|GE LI|scoreA
+GEMET|MX|GEMETEC SA|scoreD
+Geneze S.A.|BR|DA MAIDA PRODUTOS ALIMENTICIOS LTDA - ME (Alias: GENEZY)|scoreB
+GENHIDRO|GT||
+Gerant de Leternel|CD||
+Gerber Plant|CR||
+GJEL|IN||
+GJRL|IN||
+Glowship|IN||
+glrl|IN||
+GMR|IN|GMR INFRASTRUCTURE LIMITED|scoreB
+GNG East|UA||
+Gogo Time|KY||
+Golden Lay|ZM|GOLDEN LAY LTD|scoreB
+Golf Ice Cream|TR||
+Green Alternative properties ltd|NA|ALTERNATIVE PROPERTIES CC|scoreB
+Green Power Corp|HN||
+Greensync|AU|GREENSYNC PTY LTD|scoreA
+GroGhana|GH||
+GroKenya|KE||
+GroNigeria|NG||
+GroRwanda|RW||
+GroSouth|ZA||
+GroTanz|TZ||
+GroUganda|UG||
+Group M&N|CD|GROUPE ORGAMAN|scoreD
+GroZambia|ZM|SARO AGRO INDUSTRIAL LIMITED|scoreE
+GSR Energy|RU|AIR ENERGY LTD|scoreC
+GTA|NG|GTA ENGINEERING NIGERIA LIMITED|scoreE
+Guardian (GNPL)|IN||
+GUEL|IN||
+Guiyang Huochebang|CN|HUO CHE BANG ( GUI YANG ) BAO XIAN JING JI YOU XIAN GONG SI|scoreB
+Gushengtang|CN||
+GVL Homebuilding|CR||
+Handy|HK||
+Haplox|CN||
+Hazelcast|TR|HAZEL BILISIM LIMITED SIRKETI|scoreE
+HCM|MX|HCM SERVICIOS SA|scoreB
+HCM Retailer|VN||
+HDC|VN|HDC VINA JOINT STOCK COMPANY|scoreB
+Headland Corp.|DK||
+Helios Towers AF|AFR|HELIOS TOWERS PLC|scoreB
+Hexis|CN||
+HFC|GH|UG-HFC|scoreC
+Higher Ground|WLD|HIGHERGROUND INC|scoreA
+Hildebrando|MX|HILDEBRANDO DEL BAJIO SA|scoreB
+HiPT|VN|HIPT GROUP JOINT STOCK COMPANY|scoreA
+HMY cayman|CN||
+Hope Bakery|LR||
+Hotels In.|MX|HOTEL MI O SA (Alias: HOTEL MINO SA DE CV)|scoreC
+HRLV|GT||
+Huaneng|CN|HUANENG TIANJIN IGCC CO., LTD.|scoreB
+HYCO SARL|MG||
+Hygrotech|ZA|HYGROTECH S A (PTY) LTD|scoreB
+Hyperkey|RU|HYPERTECH|scoreC
+I & G Tech (ITS)|CR||
+IATAI|CO|IATAI LA S A S|scoreA
+ICMC Cambodia|EAP|I & C MCCAMMON|scoreE
+iDwala|ZA|IDWALA INDUSTRIAL LTD|scoreB
+IEX|IN|IEX BUSINESS TOOLS PRIVATE LIMITED|scoreE
+IEX|IN|IEX BUSINESS TOOLS PRIVATE LIMITED|scoreE
+IFB (education)|PE||
+IFMR (KGFS)|IN||
+IGE Resources|AFR|IGE RESOURCES LIMITED|scoreA
+IHH-USS|BR||
+IHS Fund II SA  PVE|ZA|IHS FUND II SA GP (PTY) LTD|scoreB
+IHS Fund II SA Rental Trust 4|ZA|IHS FUND II SA GP (PTY) LTD|scoreB
+IHS Holding Ltd|AFR|WORKHORSE GROUP INC. (Alias: AMP HOLDING INC)|scoreC
+IHS Holding Ltd|AFR|WORKHORSE GROUP INC. (Alias: AMP HOLDING INC)|scoreC
+IHS Holding Ltd|AFR|WORKHORSE GROUP INC. (Alias: AMP HOLDING INC)|scoreC
+IMCH3|LAC|INTERNATIONAL MULTIMEDIA CORP|scoreE
+Impartus|IN|IMPARTUS INNOVATIONS PRIVATE LIMITED|scoreB
+Impremerie|MG||
+IndiaMart|IN|INDIAMART INTERMESH LIMITED|scoreB
+Indo Minerals|MK|S O PRI INDO MINERALS METALS PODRUZNICA RUDNIK ZLETOVO|scoreD
+Indorama Nigeria|NG|INDORAMA PET (NIGERIA) LTD|scoreB
+Infopress|RO|INFOPRESS SRL|scoreA
+Innov|CD||
+Inocur|WLD|INOCURE, S.R.O.|scoreB
+Intaj|MNA|THE INDUSTRIAL COMMERCIAL AND AGRICULTURAL(THE) P.L.C. (Alias: AL INTAJ)|scoreA
+Intellicare|PH|ASALUS CORP (Alias: PRYCE CARE INC.)|scoreE
+Intercity|TR||
+InterMIMS|LY||
+Interswitch|NG|INTERSWITCH LIMITED|scoreA
+Interswitch|NG|INTERSWITCH LIMITED|scoreA
+Intrapex|SL||
+Invenlux|CN|INVENLUX LIMITED|scoreA
+IPC 1|PH||
+IPC 2|PH||
+Irrico Holdings|RU|LIMITED LIABILITY COMPANY IRRICO HOLDING|scoreA
+Issco SARL|CD||
+Itero|IN|ITERO BIOPHARMACEUTICALS PRIVATE LIMITED|scoreB
+ITHL (CAFIC)|KH||
+Jabi Lake NigCo|NG|JABI LAKE MALL|scoreC
+Jacques RTA|MG|JACQUES CECILE|scoreE
+Jaguar Animal|CN||
+Janalakshmi|IN|JANALAKSHMI FINANCIAL SERVICES PRIVATE LIMITED|scoreE
+Jayapore|IN||
+JBL Holdings Ltd|UA|BOKSHOLL HOLDINGS LIMITED KT|scoreB
+JD Trading|LR|SEA TRADING CORP.|scoreD
+JFSL|IN|JFSL - JLL (JV)|scoreE
+JHIL|NG||
+Jiezhen|CN||
+JM Floating Rate|IN||
+Joara-Nayagaon|IN||
+JTRCL|IN||
+Juxta Labs|MX||
+Kadopub Sarl|MG||
+Kadrik|SL||
+Kalikuti Investment|MW|PARIE INVESTMENT|scoreD
+Kathu CSP|ZA|KATHU GLORIA ONDERDELE CC (Alias: KATHU MIDAS)|scoreE
+Kayak Limited|MW||
+Kayalar|TR|KAYALAR GIRISIM ANONIM SIRKETI|scoreB
+Kemer Medical|ECS|KEMPER MEDICAL INC|scoreB
+Kennedy Matashi|ZA||
+Kensta|SSA|KENSTA HANDELSBOLAG|scoreA
+Kevro|ZA|KEVRO (PTY) LTD|scoreA
+Kharabeesh|AE||
+Khobab|ZA|THEBE KHOBAB WIND (RF) (PTY) LTD (Previous name: THEBE KHOBAB WIND (PTY) LTD)|scoreE
+Kiboko Holdings|SSA|KIBOKO HOLDING COMPANY LIMITED|scoreA
+Kickstart Peru|PE||
+Kid Admit|WLD|HENKEL, DIANA LOUISE (Alias: KIDADMIN)|scoreB
+Kids Fun Plaza|WLD|KIDS FUN PLAZA INC|scoreA
+Kinangop Wind|AFR|KINANGOP LIMITED|scoreB
+KLN|CD||
+Knets China|CN||
+Koba|CO|KOBA COLOMBIA S A S|scoreB
+Konfio|MX|KONFID SA|scoreB
+Korsando Limited|UA|PREDSTAVNITSTVO KORSANDO LIMITED PREDST.|scoreC
+Koubei|CN|KOU BEI GU FEN YOU XIAN GONG SI|scoreA
+KPPL|IN|KOTHARI PROCESSORS PRIVATE LIMITED|scoreE
+Kredivo|SG||
+Kris Star Lodge|MW||
+KT Finance|CN||
+KTG|VN|KTG DISTRIBUTION NORTH JOINT STOCK COMPANY|scoreE
+Kungfu Fast Food|CN||
+Kunoch Hotels Lt|NG||
+KVTC|AFR|KVTC SIA|scoreA
+KWFT|KE|KWFT INSURANCE AGENCY LTD|scoreC
+LA Airports Hold|MX||
+La Trinidad|SV|GRUPO TRINIDAD S.A. DE C.V.|scoreC
+Lamani Boat|MW||
+Lantern Mall|NG|LANTERN MARINE LIMITED|scoreE
+Lape|ID||
+LAPO MFI|NG||
+Lasta Multimedia|VN|CONG TY TNHH TRUYEN THONG SENTA|scoreE
+Laurus|AFR|FABRICA DE PAPEL PONTE REDONDA, S.A. (Previous name: LAURUS, S.A.)|scoreA
+LCBS Dhaka|BD||
+Le Genie|MG||
+Learners Guild|WLD|LEARNERS GUILD LLC|scoreA
+Lejack|CD||
+Lekki Blue Water_ CAPIC Fund|NG||
+Lemchabang Port|TH||
+L'Equipe Monteur|AR|L EQUIPE MONTEUR SA|scoreA
+Les Elites|CD||
+Lexander|CZ||
+LF Properties Development CC|NA|DDR PROPERTIES AND DEVELOPMENT CC|scoreB
+Li Tong|CN||
+Liberia Woodwork|LR||
+Light E Holding|CL|LIGHT E HOLDING LTD|scoreA
+Lilas|MA|STE INSTITUTION LES LILAS (Alias: LES LILAS)|scoreA
+Lincoln Lub|ZA|LINCOLNLEE (PTY) LTD|scoreB
+Linetrale|NG|LINETRALE GAS|scoreB
+LinkDoc|CN||
+LittleBits|US|LITTLE BITS|scoreA
+Live Ad|KE|LIVECARD LIMITED|scoreE
+Livspace|IN||
+Lufax|CN||
+LunchOn|AE||
+Lymex Hldgs|RU||
+M  K Property Management|NA|FLK PROPERTY MANAGEMENT CC|scoreB
+M Star Melchers|MN||
+M&E Leasing|LR||
+MA Herimalala|MG||
+Mabtech|CN||
+Madaltax|KE||
+Madame Figaro|RU|MADAME PIAT|scoreE
+Magnesita|BR|MAGNESITA SA|scoreA
+Maize Milling|SL||
+MakeSchool|WLD|MAKEGAMESWITHUS INC (Alias: MAKE SCHOOL)|scoreA
+Malucelli|BR|J. MALUCELLI CONSTRUTORA DE OBRAS S/A (Alias: J MALUCELLI)|scoreB
+Mango Ad Agency|MW||
+Manipal|IN|MANIPAL TECHNOLOGIES LIMITED|scoreB
+ManoRiver|LR||
+Mansard|NG|AXA MANSARD INSURANCE PLC (Previous name: MANSARD INSURANCE PLC)|scoreB
+Marche Multirasa|ID||
+Mardil Med|IN||
+MArillion II|IN||
+Marillion Pharma|IN||
+Master Change|MG|MASTER-CHANGE|scoreA
+Maxaren|UA||
+Maxcard Holding|CN||
+Maximum Test|RU|MAXIMUM TEPLOIZOLYACHII COMPANY LIMITED|scoreE
+Maykor|RU|MAIKOR|scoreA
+Mbuyuy|ZA||
+Medecines Nuit|CD||
+MEDIFAR|HR||
+Mega Lifescience|TH|MEGA LIFESCIENCES PUBLIC COMPANY LIMITED|scoreA
+Megaport Int'l|CN||
+Mentor|KE|THE MENTORS LIMITED|scoreB
+Mercatus|US|MERCATUS LLC|scoreA
+MexVi|MX|MEX VIT SA|scoreB
+MFM Fnancial|MX||
+MFX|US|MFX ROANOKE|scoreA
+MIBL (Mahindra)|IN||
+Microinvest Loan|TJ||
+Micurx Pharma|CN||
+Mimosa Goodlife|KE||
+Minerva Project|WLD|MINERVA PROJECT INC|scoreA
+Mingtang|CN|SHI MING TANG ( BEI JING ) MAO YI YOU XIAN GONG SI|scoreD
+Mira-Ceti|RU||
+Mirkala Solar|IN||
+MissionU|WLD|MISSION FEDERAL CREDIT UNION (Alias: MISSION)|scoreB
+MKL|KE||
+MLE|MG||
+Mobalytics|US||
+Mobilio|MA|MOBILIA (STE)|scoreB
+MOBISOL TAN|TZ|MOBISOL UK LIMITED|scoreD
+Moglix|IN|MOGLI LABS (INDIA) PRIVATE LIMITED|scoreE
+Mojing|CN|MO JING ( XIA MEN ) GUANG XUE YOU XIAN GONG SI|scoreD
+Momao|CN|SHI SHI SHI MO SHI MAO YI YOU XIAN GONG SI|scoreD
+Momenta|CN|MOMENTA LIMITED|scoreA
+monte carlo fash|RU|LIMITED LIABILITY COMPANY MONTE CARLO|scoreB
+Morvigor|SL||
+Mowdok|BD||
+Mpower Financing|IN||
+MTNN|NG||
+MUA|MU|MUA COMMERCIABLE VEHICLES AGENCY LIMITED|scoreD
+Muller Tech|CN||
+Mutandis Morocco|MA||
+MyNFO|US|MYNFO LLC|scoreA
+MyTherapist|CN||
+N-50 Underlying|WLD|N-50 LIMITED|scoreB
+Nafith|IQ||
+NAHHG - Egypt|EG||
+NAHHG - Tunisia|TN|STE TUNISIA SHOPPING NETWORK|scoreD
+Naochuanyue|CN||
+Napo Pharma|CN||
+NDEP|NG||
+Negros Nav|EAP|DAIANE BEATRIZ QUEIROZ EVANGELISTA ELOY (Alias: NEGRO'S BAR)|scoreB
+NeoGrowth|IN|NEOGROWTH VYAPAAR PRIVATE LIMITED|scoreB
+Neozeka|TR||
+Nepra|IN|NEPRA TRADELINK PRIVATE LIMITED|scoreB
+Netcad|TR||
+New Force|AM||
+New Horizon Health|CN||
+NewGlobe Schools|KE||
+Newspeed|MG||
+Newswire 18|IN||
+Nexchem|CN|NEXCHEM PHARMACEUTICAL CO., LTD|scoreB
+NFCH|SSA|K.K. N F C H|scoreA
+NFWare|RU||
+N-G Chemicals|NG|IMC CHEMICALS LIMITED|scoreC
+NGM|TR|NGM ULUSLARARASI VE DAHILI TASIMACILIK KURYECILIK GUMRUKLEME DEPOLAMA IC VE DIS TICARET LTD STI|scoreE
+NGN Investment|KE|KAN INVESTMENTS LIMITED|scoreC
+NGO Aurora ABSL|CD||
+NGO Aurora ABSL|CD||
+Northern Lights|UA||
+Northstar Financial Service|NG|PRIMESTAR FINANCIAL SERVICES LIMITED|scoreB
+Nova (Farutex)|PL||
+NP Holdings|CN|HP HOLDINGS CO., LTD.|scoreB
+NQ (Vinasun)|UA||
+NRJ|CD||
+Nsero Investment|ZM||
+NSIA AGCI|CI||
+NT Okawa Trading CC|NA|OKAWARONGO TRADING ENTERPRISE CC|scoreD
+Nu Tread|MW||
+NUTV|HT||
+Nuvia|TR||
+Oasis Kazakhstan|KZ|A1 SYSTEMS KAZAKHSTAN (A1 SISTEMS KAZAKHSTAN)|scoreE
+Obilet|TR|OBILET BILISIM SISTEMLERI ANONIM SIRKETI|scoreE
+Octonion|US||
+Off Grid Electric Ltd|SC||
+OGPL|IN|OGPL INDIA LIMITED|scoreC
+OK Xueche|CN||
+OKIL Group|RU|SKILL GROUP LTD|scoreC
+Omniacom|MNA|OMNIA COM SRL|scoreA
+On Tech|AE|FAM TECH ON LINE SERVICES L.L.C|scoreC
+Oncologie Diagnostic Maroc_ODM|MA|ONCOLOGIE ET DIAGNOSTIC DU MAROC|scoreB
+Opus Sign|BD||
+Oragroup|TG|ORAGROUP SA|scoreB
+Orca|IN|ORCA TELECOMMUNICATION PRIVATE LIMITED|scoreB
+Oriard|MX|MARCO ANTONIO ORIARD OCHOA|scoreE
+Orient Ltd|EG|BASSAM YASSER HASAN AHMED AND PARTNER (Alias: ORIENT)|scoreB
+Orion Cleaning|TR||
+OSG|RU|JOINT STOCK COMPANY UNITED BULDING GROUP (Alias: ZAO OSG)|scoreA
+Other holdings|CN||
+Other Listed|VN||
+Outschool|WLD|VERENIGING OUT of SCHOOL|scoreA
+Oxus Tajikistan|TJ|ADMINISTRATION OF COMMUNICATIONS, TAJIKISTAN|scoreD
+P2K homebuilding|CL||
+Pac Comm SL|FJ||
+Pacific Meinouke|CN||
+Pajah|SL||
+Paladippsa|MX||
+Pangea Diamonds|AFR|ASIMI MINING COMPANY (PTY) LTD (Previous name: PANGEA DIAMONDS (PTY) LTD)|scoreB
+Papa Sola|CD||
+Parallels|RU|PARALLELS LTD|scoreA
+Parasut|TR||
+Park Cafe|KH||
+Paysense|IN|PAYSENSE SERVICES INDIA PRIVATE LIMITED|scoreE
+Paystream|KE|PAYSTREAM LIMITED|scoreA
+Penkon|TR|PENKON GIDA SANAYI ANONIM SIRKETI|scoreE
+People Productivity Solution PPS|NG||
+Peoplise|TR||
+Petrolatina|CO|PETROLATINA INC|scoreA
+PFT|IN||
+Pharmacie Rako|MG|PHARMACIE S I T R A K A|scoreC
+PHESI|PH|PHESI HOLDINGS CORPORATION|scoreB
+Photomath|WLD|PHOTOMATH INC|scoreA
+Phyma Fresh Prod|KE||
+Picsel Group|CN||
+Pinetree Group|CN||
+Planet Pty Ltd|LA||
+Planor Capital|CI||
+PlayCo Holding ltd Startzplay|MNA|PLAYCO HOLDING LTD|scoreB
+Plum|CN|PLUM & COMPANY LIMITED|scoreA
+Plumblink|ZA|PLUMBLINK (MILNERTON) (PTY) LTD|scoreA
+PM Homes|BR|P M HOMEM & CIA LTDA - ME|scoreB
+Poly Taoufik|TN||
+Polymeres|TN|STE POLYMERES|scoreA
+Pomelo|SG|POMELO NETWORK PTE. LTD.|scoreB
+Popshop|CD||
+Popshop|CD||
+Popular (PPL)|BD||
+Porini|KE|PORINI PERMACULTURE LIMITED|scoreB
+Precise Suzhou|CN|SUZHOU PRECISE PACKING MATERIAL CO., LTD.|scoreB
+Prestanic|NI||
+Pride Tanzania|TZ|PROMOTION of RURAL INITIATIVES AND DEVELOPMENT ENTERPRISES LIMITED (Alias: PRIDE TANZANIA)|scoreA
+Primedia|ZA|PRIMEDIA LIMITED|scoreA
+Primedic|MX|PRIME MEDICAL SA|scoreC
+Primoyre Fishing Project|RU||
+Proambi|MX|PROAMBIENT SC|scoreC
+Project 8ins|CN||
+Project ACF|KZ|PROJECT-A COMPANY|scoreB
+Project Arrow|NG||
+Project Bloks|KZ|PROJECT-A LTD|scoreC
+Project GTel|CN||
+Project Pink|ECS|PROJECT PINK PTY. LTD.|scoreA
+Promed SPRL|CD||
+Promedis & CMLIM|PL|PROMEDIS SP. Z O.O.|scoreB
+Prominox|MA|MAROCAINE DE LA PROMOTION D'INOX (STE) (Alias: PROMINOX)|scoreA
+Pronet|TR|PRONET MIMARLIK MUHENDISLIK INSAAT VE SANAYI A S|scoreD
+Pronto!|UY|KEDAL SA (Alias: PRONTO!)|scoreA
+Propalma|MX|PROCESADORA PALMA SA DE CV|scoreE
+ProSky|WLD|PRO SKY AG|scoreA
+Provus Romania|RO||
+PT Cipta Retail Prakarsa|ID|PT CIPTAMEGA INFRASARANA|scoreD
+PT Mount Scopus International|ID|MOUNT SCOPUS INDONESIA, PT|scoreB
+PT Mount Scopus International|ID|MOUNT SCOPUS INDONESIA, PT|scoreB
+PT. IBS|ID|PT IBS INSURANCE BROKING SERVICE|scoreD
+PTT Family F&B Singapore|ID||
+PYYX|CN||
+QFI|MU||
+Qiakr|CN||
+QILI|CN|CHERRY (SUZHOU) GARMENT CO., LTD.|scoreB
+QSR|VN|QSR MANAGEMENT JOINT STOCK COMPANY|scoreB
+QTVT|VN||
+Quick Print|CD||
+RaceGame|MZ||
+Ramanas|AFR|RAMANA ZARA DE OLIVEIRA DA COSTA (Alias: RAMANAS)|scoreA
+Rameda|EG|TENTH OF RAMADAN FOR PHARMACEUTICAL INDUSTRIES AND DIAGNOSTIC REAGENTS (Alias: RAMEDA)|scoreA
+Rancher Labs|CN||
+RDIL|KE||
+RE Connect|IN|GEO CONNECT LIMITED|scoreC
+Ready Planet|TH||
+Red Cap DevCo|ZA|RED CAP BRANDING (PTY) LTD|scoreB
+RedDoorz|ID||
+REDI Platform|MX||
+Reef Hout|CM||
+Regimanuel|GH|REGIMANUEL GRAY LIMITED|scoreC
+Regional Cellula|RU|REGIONAL JOINT STOCK COMMERCIAL BANK 'MOSKVA'|scoreB
+Reliable Concret|KE|RELIANCE CONCRETE PRODUCTS KENYA LIMITED|scoreE
+Rentandes|CO|RENTANDES S A|scoreA
+Restaurant 3 Sty|MG|RESTAURANT DE CHINE|scoreE
+Reva Drilling|MG||
+Revive|IN|REVIVE REALTY LIMITED|scoreB
+Rhobomile|MX||
+Rhythm Image Media|WLD|IMAGE MEDIA|scoreB
+Ribquark|CN||
+Richcore|IN|RICHCORE LIFESCIENCES PRIVATE LIMITED|scoreB
+Riggs Ventire  WA|NG|RIGGS VENTURES WEST AFRICA PLC|scoreE
+Rinac|IN|RINAC INDIA LIMITED|scoreB
+riskdata|RU||
+River Security|CN||
+Riziki Kimilili|KE||
+RMG Concept|GH||
+Robby|US|ROBBY INC|scoreA
+Robins Park|ZA|ROBIN'S PLACE CC|scoreC
+Robinson|TH|ROBINSON PUBLIC COMPANY LIMITED|scoreA
+Rocklands Mills|SZ||
+RomHldg-DragnStr|RO||
+RomRealEstate|RO||
+Rotomag|IN|ROTOMAN PVT LTD|scoreB
+Rqubed|ZA|RQUBED CONSULTANTS (PTY) LTD|scoreB
+RTV|AR|RTV SA|scoreA
+Sachal Radio|PK||
+Samuel Filimoni|ZA||
+Sansa Art|SG|THE SANSARA|scoreB
+Sapala|IN|SAPALA ORGANICS PRIVATE LIMITED|scoreB
+Sara Capital|GH||
+SAT|BR|SAT SERVICE TERCEIRIZACAO DE MAO DE OBRA LTDA (Alias: SAT)|scoreA
+Satin|IN|SATIN WEAVES PVT LTD|scoreB
+Satin Credit|IN|SATISH CREDITS PVT LTD|scoreC
+Savcio|AFR|SAVCIC|scoreB
+Save-A-Lot|GT|SAVE MONEY|scoreD
+SC Auto Africa|AFR|SC AUTO SIA|scoreB
+Scitum Integraio|MX|SCITUM SA DE CV|scoreB
+Scoutible|WLD|SCOUTIBLE INC|scoreA
+SDL - Sabuni|TZ||
+Senbus|SN||
+Sensity|US|SENSIT INC|scoreB
+Sensoro|CN||
+Serve Investment|NA|SERVO INVESTMENTS (PROPRIETARY) LIMITED|scoreB
+Servicios Caset|MX|SERVICIO CASETA EL DORADO SA|scoreB
+Setcar holding LTD|RU||
+Setcar holding LTD|RU||
+Setfin Cash Intransit Limited|ZM||
+Seven Oceans Fish Processing|BD||
+SFC Africa|TN|MIC AFRICA|scoreC
+Shanghai Kelaibo|CN|SHANG HAI KE LAI FU SHI YOU XIAN GONG SI|scoreB
+Shared Services|MX|PHARMA SHARED SERVICES SA DE CV|scoreB
+Sharekhan|IN|SHAREKHAN LIMITED|scoreA
+SHB|CN||
+Shearwater|WLD|SHEARWATER|scoreA
+Shiguang Caibei|CN|GUANGCAI( BAOTOU ) INDUSTRIAL CO.,LTD|scoreE
+Shop Clues|IN|CLUES NETWORK PRIVATE LIMITED|scoreE
+SiberianNetworks|RU|SIBERIAN NEWSPAPER|scoreD
+SIC (Shams)|EG||
+Sideco Printing|MG||
+Sierra Lighthous|SL||
+Siim Tech|HK|SIM TECH TRADE LIMITED|scoreD
+Silkroute|IN|SILKROUTE EXIM PRIVATE LIMITED|scoreB
+Silvan|IN|SILVAN CHEMICAL PRIVATE LIMITED|scoreB
+Sinemia|TR|SINEM BAY|scoreB
+Sino-Agri Bio|CN|SINO-AGRI EQUIPMENT CO., LTD.|scoreC
+SinowayCosmetics|CN||
+SIRAC SA|ZA|SIRACE (PTY) LTD|scoreC
+SITUSA|MX||
+Sixup|WLD|SIXUP CORPORATION|scoreA
+Skard Special Needs Support|MW||
+SKE|ID||
+Sky Atlas|TR||
+Skye CAPIC|NG||
+SlimSun|ZA|SLIMSUN (RF) (PTY) LTD (Previous name: SLIMSUN (PTY) LTD)|scoreA
+Smagars|KZ||
+SMI - Q|ID|SMIV|scoreD
+Snabizz|IN||
+SoarOS|CN||
+SODEP|CD||
+Sogetra SPRL|CD||
+SoGood|CD||
+SOK Insurance|RU|SOS INSURANCE|scoreB
+SOLARIC|BD||
+Sosyo Insider|TR||
+Southey|ZA|SOUTHEY GROUP (PTY) LTD|scoreB
+Southey|ZA|SOUTHEY GROUP (PTY) LTD|scoreB
+Southgate|ID||
+Space Monkey|MX||
+Spaces|US|SPACES|scoreA
+Spaceship|AU|SPACESHIPS PTY LIMITED|scoreB
+Spandana|IN|SPANDANA FOODS PRIVATE LIMITED|scoreB
+Sport et Loisirs|TN|STE SPORT EL LOISIRS|scoreA
+Sportz Village|IN|JUNIOR SPORTS AND SERVICES PRIVATE LIMITED|scoreE
+Spykar|IN|SPYKAR LIFESTYLES PRIVATE LIMITED|scoreB
+SQ Real Estate|CN||
+SRLL|IN||
+SSD Tech|BD||
+Starman|EE|STARMAN AS AMETIUHING|scoreA
+Stars Business|CD||
+Starwind|UA||
+Stellar Inv|KE|STELLAR GYM|scoreC
+Step Group|AE|STELLAR GROUP - LLC - ABU DHABI BRANCH|scoreE
+Stochastics Software|RU||
+Strategic Global|GH|STRATEGIC GLOBAL ALLIANCE INC.|scoreB
+Subway|GE||
+Sunar Assets|SV||
+Sunduzwayo|MW||
+Sunpreme|CN||
+Surgutneftegaz|RU|SURGUTNEFTEGAS OPEN JOINT STOCK COMPANY (Alias: OAO SURGUTNEFTEGAZ)|scoreA
+Suryodaya|IN|SURYODAYA PLASTICS LIMITED|scoreB
+Susu Microfinance|NG||
+Swadhaar (SFPL)|IN||
+Swizza|UA||
+Syncom|SSA|ATEA A/S (Alias: SYNCOM A/S)|scoreA
+Tabac -Equity Bank|KE|EQUITY BANK (KENYA) LIMITED|scoreC
+Talma|PE|TALMA SA|scoreA
+Tandu Alarm|KE||
+tapucom|TR||
+Target Cranes|ZA|BABCOCK PLANT SERVICES (PTY) LTD (Previous name: TARGET CRANES (PTY) LTD)|scoreA
+Tascom|RU|TASCOM LTD|scoreA
+TatilSepeti|TR|TATILSEPETI|scoreA
+TBG|ID||
+T-Bistro|ID||
+TCBuen|CO|SOCIEDAD PORTUARIA TERMINAL DE CONTENEDORES DE BUENAVENTURA S A|scoreE
+TCX Portfolio|WLD||
+Teachable|WLD|TEACHABLE LTD|scoreA
+Tecpro Engineers|IN|TECPRO ENGINEERS LIMITED|scoreA
+Tecpro Power|IN|TECPRO POWER SYSTEMS LIMITED|scoreB
+TeleDNA|IN|TELEDNA COMMUNICATIONS PRIVATE LIMITED|scoreB
+TeNet II|IN|TENET HOLDINGS PRIVATE LIMITED|scoreE
+Teracom|IN|TERACOM LIMITED|scoreA
+Termoemcali|CO|TERMOEMCALI I S A E S P|scoreC
+TESSOL|IN||
+The Ok Food Store Limited|ZM|CROWN FOOD INGREDIENTS LIMITED|scoreE
+The Vibe Limited|ZM||
+Thimar Palestine|PS||
+Thriveni|IN|THRIVENI EARTHMOVERS PRIVATE LIMITED|scoreB
+Thyrocare|IN|THYROCARE TECHNOLOGIES LIMITED|scoreB
+Tiangong|CN||
+TiAuto|ZA|TIAUTO (PTY) LTD|scoreA
+Tiba Group|EG|TIBA GROUP|scoreA
+Tiejia|CN||
+Tishona|NG||
+TOG|CI||
+TOG|CI||
+Toitoi|NA||
+Top League|RU||
+Topcare Feeds|KE|TOP CARE REALTERS LIMITED|scoreE
+Touax Africa|MA||
+Towndoor Media|CN||
+Trans Capital|ZA|T C TREASURY (PTY) LTD (Previous name: TRANS CAPITAL (PTY) LTD)|scoreA
+Tree Tops Academ|KE||
+Trendtech|TR|TRENDTECH AND RETROMEDIA|scoreC
+TriCity Platform|BR||
+Triple P|LR||
+Tripsters GLobal|CN||
+T'sar Island|MG|TSAR'ISLAND|scoreA
+Tsarichanskoye|RU|TSARICHANSKII IGOR BORISOVICH|scoreD
+TTPC|CN||
+Tucan|PE|TUCAN EL SOL SRL|scoreB
+Tujijenge|TZ|TUJIJENGE (TANZANIA) LIMITED|scoreB
+TV Club|RU|TVCLUB|scoreA
+TwinCare|ZA|OLD TWINCARE (PTY) LTD|scoreA
+TWU|ID|TRI WAROKO UTAMA, PT|scoreE
+UAP Holdings|KE|UAP HOLDINGS LTD|scoreA
+UBA|NG|UBA PLC|scoreA
+UEP II|PA|UEP PENONOME II S.A.|scoreB
+UHG|TR|UHG HAZIR GIYIM PAZARLAMA TICARET ANONIM SIRKETI|scoreD
+UISEE|CN||
+Ukraine Direct|UA||
+ULA|MX|COMERCIALIZADORA ULA SA|scoreB
+Ulink Group|CN|U-LINK GROUP LIMITED|scoreA
+Ultimo Group|PL|ULTIMATE GROUP SP. Z O.O.|scoreC
+Universal Ind|ZA|UNIVERSALITY (PTY) LTD|scoreB
+Uno Bakery|TR||
+Upiter|KZ|UPITER GLOBAL SYSTEMS|scoreE
+Urbano|PE|URBAN SAC|scoreB
+UTB Sierra Leone|SL|BANK of SIERRA LEONE|scoreB
+UTS|IN|UTS INFRATEL PRIVATE LIMITED|scoreB
+Vacmet|IN|VACMET INDIA LIMITED|scoreB
+Validata|BG|VALIDATA DEVELOPMENT EOOD|scoreB
+Varthana|IN||
+Varthana|IN||
+VBHC Education|IN||
+Vcount|TR|V COUNT TEKNOLOJI ANONIM SIRKETI|scoreE
+Veerhouse|HT||
+VEIL C-Shares|VN||
+Veil underlying|VN||
+Vendebita|RU|VENDEMIYA|scoreB
+Venezia Ice|MA|VENEZIA COM|scoreC
+VentureEast Drug|IN|VENTUREAST DRUG DISCOVERY SERVICES PRIVATE LIMITED|scoreB
+VersaMe|WLD|VERSAME INC|scoreA
+Vesta Corp|MX|VESTAL SA (Alias: VESTA (TIJUANA))|scoreA
+Vested Finance|WLD|VESTED FINANCE INC|scoreA
+Vetauto|MG|VETAUTO & 4X4 SERVICE|scoreE
+VGN|NG||
+Viathan Power|NG||
+Vidal|IN|VIDAL MERCANTILE PRIVATE LIMITED|scoreB
+Vidy V|MG||
+Viena Group|BR|SIENA HOLDING GROUP LTD. (Alias: SIENA GROUP)|scoreB
+Vinafco|VN|VINAFCO JOINT STOCK CORPORATION|scoreA
+Vital|RU|VITAL|scoreA
+Vitalux|UA|VITALYUKS TOV|scoreE
+Vivaldroni|RU||
+VivaLink|CN||
+Vivo  Energy|AFR|VIVO ENERGY PLC|scoreA
+Vivo  Energy|AFR|VIVO ENERGY PLC|scoreA
+VMCEE|PL|MOBILE COMPUTING & ENTERTAINMENT SP. Z O.O.|scoreE
+VN Direct|VN||
+Vocate|WLD|VOCATE LTD|scoreA
+Vodocanalstroy|KZ||
+Volga Gas|RU|VOLGAGAZ|scoreB
+Volga Sumo Holdings|RU|VOLGA-STROI-KHOLDING|scoreB
+Volt|TR|VOLT ELEKTRIK MOTOR SANAYI VE TICARET A S|scoreD
+VTPL|IN|VTPL SOLUTIONS PRIVATE LIMITED|scoreB
+VUS Holdco|VN||
+VUS Vietnam|VN|US VIETNAM JOINT STOCK COMPANY|scoreC
+V-Wallet|CN||
+Vysr Tech|IN||
+WAL Zbird|CN||
+Wanderu|MX|WANDERER SA|scoreC
+WatchBanQ Ventures|HK|WATCHBANQ LIMITED|scoreC
+Weiche|CN|SUN LONG COMPANY LIMITED|scoreB
+WeKair|CN||
+Wellspring|VN|SSG EDUCATION|scoreE
+Wen Inc|SL||
+Wenice|TR|WENICE COCUK GIYIM- AHMET CENGIZ NILSU|scoreE
+WeShare|CN|WE SHARE COMPANY LIMITED|scoreA
+WestCall|RU|WEST CALL LTD|scoreA
+White Pole|SL||
+WriteLab|WLD|WRITELAB|scoreA
+WriteLab|WLD|WRITELAB|scoreA
+WWB|GH||
+Wydr|IN||
+XAC|MN|XAC-GE LLC|scoreC
+Xingin International|CN||
+XINJU|CN||
+XXSekerbank|TR|SEKERBANK T.A.S.|scoreE
+Yaowang|CN|SHI YAO WANG ( BEI JING ) KE JI FA ZHAN YOU XIAN GONG SI|scoreC
+YiDingHuo|CN||
+Yingliu|CN|YINGLI GROUP CO., LTD.|scoreB
+YKROK|IN|"YOUR KIDS ""R"" OUR KIDS (INDIA) PVT LTD"|scoreE
+York Park|ZM||
+Zaitseva|KZ||
+Zamani|CD||
+ZHIXIANG|CN|WISE CONCEPT LIMITED|scoreA
+Zhiyang|CN||
+Zhuge IO|CN||
+ZIP San Juan|HN|VIENTOS DE SAN JUAN S.A. DE C.V.|scoreD
