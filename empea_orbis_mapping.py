@@ -116,7 +116,7 @@ def select_score(browser, total_page_num):
                     if nation == nation_popped or len(nation) == 3:
                         browser.find_element_by_xpath('//*[@id="Template" and not(string(@style))]/td[1]/label').click()
                         print(id+page*100)
-                        time.sleep(0.4)
+                        time.sleep(2)
                     else:
                         print("Mapping result rejected!")
                 except:
@@ -140,7 +140,7 @@ def create_mapping(browser, total_page_num):
         tree = html.fromstring(innerHTML)
         data_temp = pd.DataFrame()
         data_temp['original_name'] = tree.xpath('//td[@data-id="Name"]/div/text()')
-        data_temp['country_code'] = tree.xpath('//td[@data-id="Country"]/div/text()')
+        data_temp['country_code'] = [x.text for x in tree.xpath('//td[@data-id="Country"]/div')]
         data_temp['mapped_name'] = [x.strip() for x in tree.xpath('//td[@id="matchedSelected"]/div/text()')]
         result_list = [eval(x) for x in tree.xpath('//td[@id="matchedSelected"]/@data-selected')]
         id_list = []
@@ -151,21 +151,20 @@ def create_mapping(browser, total_page_num):
                 id_list.append("")
         data_temp['mapped_bvdId'] = id_list
         data_temp['mapping_score'] = tree.xpath('//td[@id="matchedScore"]/div/@class')
-        company_mapping = pd.concat([company_mapping,data_temp],sorted=True)
+        company_mapping = pd.concat([company_mapping,data_temp])
         browser.find_element_by_xpath('/html/body/div[2]/div[1]/div[4]/div/form/div[2]/ul/li[12]/img').click()
     
     # Output mapping table
-    company_mapping.to_csv('mapping.csv', mode='w', index=False)
+    company_mapping.to_csv('mapping.csv', mode='a', index=False)
     return company_mapping
 
 
 def data_scraping(browser):
     # Download Detailed Data
-    year = 2016
     select_view = browser.find_element_by_css_selector('div.menuViewContainer > div.menuView > ul > li > a')
     select_view.click()  
-    if visible_in_time(browser, 'span.name.clickable[title="All Columns {0}"]'.format(year), 30):
-        view_year = browser.find_element_by_css_selector('span.name.clickable[title="All Columns {0}"]'.format(year))
+    if visible_in_time(browser, 'span.name.clickable[title="EMPEA"]', 30):
+        view_year = browser.find_element_by_css_selector('span.name.clickable[title="EMPEA"]')
         view_year.click()
     
     innerHTML = browser.execute_script("return document.body.innerHTML")
@@ -188,10 +187,17 @@ def data_scraping(browser):
     total_pages =  total_companies // per_page + 1 # Number of pages of data to retrieve
     page_done = 0
     
-    page_input = browser.find_elements_by_css_selector("ul.navigation > li > input")[0]
-    page_input.clear()
-    page_input.send_keys(str(1))
-    page_input.send_keys(Keys.RETURN)
+# =============================================================================
+#     page_input = browser.find_elements_by_css_selector("ul.navigation > li > input")[0]
+#     page_input.clear()
+#     page_input.send_keys(str(1))
+#     page_input.send_keys(Keys.RETURN)
+#     if visible_in_time(browser,'#resultsTable > tbody > tr > td.scroll-data > div > table > tbody > tr:nth-child(1) > td:nth-child(1)',20):
+#         pass
+#     else:
+#         print('Timeout!')
+#         exit()
+# =============================================================================
     time.sleep(2)
     
     while page_done < total_pages:
@@ -211,7 +217,7 @@ def data_scraping(browser):
             else:
                 num_on_page = per_page
             data = np.array_split(data_points, num_on_page)                
-            company_data = pd.concat([company_data,pd.DataFrame(data,columns=column_names)],sorted=True)
+            company_data = pd.concat([company_data,pd.DataFrame(data,columns=column_names)])
             
             page_done += 1
             print("Page {0} finished!".format(page_num))
@@ -230,14 +236,12 @@ form_data = {"user": "WBG_IFC", "pw": "Global Markets"}
 browser = webdriver.Chrome()
 
 login_orbis(browser)
-innerHTML = browser.execute_script("return document.body.innerHTML")
-tree = html.fromstring(innerHTML)
 
 # Ready to go
 if input("Ready? (Y/n)\n") != 'Y':
     exit()
 
-total_page_num = int(browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.title > h2 > span').text[:3])//100+1
+total_page_num = int(browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.title > h2 > span').text[:4])//100+1
 
 select_score(browser,total_page_num)
 company_mapping = create_mapping(browser,total_page_num)
@@ -248,6 +252,6 @@ browser.find_element_by_css_selector('body > div.viewport.main > div.website > d
 company_data = data_scraping(browser)
 
 final_data = company_mapping.merge(company_data,left_on='mapped_bvdId',right_on='BvD ID number ', how='left')
-final_data.to_csv('Mapped_data.csv', mode='w', index=False)
+final_data.to_csv('Mapped_data.csv', mode='a', index=False)
 
 print("Done!")
