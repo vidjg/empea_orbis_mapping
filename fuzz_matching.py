@@ -22,7 +22,7 @@ def match_name(name, list_names, min_score=0):
     # Iternating over all names in the other
     for name2 in list_names:
         #Finding fuzzy match score
-        score = fuzz.ratio(name, name2)
+        score = fuzz.token_set_ratio(name.upper(), name2)
         # Checking if we are above our threshold and have a better score
         if (score > min_score) & (score > max_score):
             max_name = name2
@@ -35,7 +35,7 @@ def main():
     names_to_match = to_match['investee']
     dict_list = []
     for name in names_to_match:
-        match = match_name(name, raw['company_name'], 75)    
+        match = match_name(name, raw['company_name'][:1000], 50)    
         # New dict for storing data
         dict_ = {}
         dict_.update({"player_name" : name})
@@ -43,4 +43,4 @@ def main():
         dict_.update({"score" : match[1]})
         dict_list.append(dict_)   
     merge_table = pd.DataFrame(dict_list)
-    merge_table.to_csv('merged_table.csv',index=False,sep='\t')
+    merge_table.to_csv('merged_table.csv',index=False,sep='|')
