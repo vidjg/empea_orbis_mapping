@@ -37,11 +37,7 @@ def login_orbis(browser):
         restart_button.click()
     except:
         pass
-    
-    # Turn to the page of Tools
-    batch_search_page = "https://orbis4.bvdinfo.com/version-2018621/orbis/1/Companies/BatchSearch/Start"
-    browser.get(batch_search_page)
-                                                
+                                                    
 
 def hard_refresh(browser,year,start_page):
     browser.close()
@@ -230,6 +226,10 @@ def data_scraping(browser):
 
 
 def select_file(browser, file_name, file_id):
+    # Turn to the page of Tools
+    batch_search_page = "https://orbis4.bvdinfo.com/version-2018621/orbis/1/Companies/BatchSearch/Start"
+    browser.get(batch_search_page)
+    time.sleep(2)
     browser.find_element_by_id('upload-now').click()
     browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.batchWidget > div > div > form > div.view > div:nth-child(1) > input.hidden').send_keys(os.getcwd()+'/' + file_name + '_{0}.csv'.format(file_id))
     browser.find_element_by_css_selector('dl.mapping-options > dd:nth-child(3) > label').click()
