@@ -506,7 +506,7 @@ def select_file(browser, file_name, file_id):
     browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.batchWidget > div > div > form > div.view > div:nth-child(1) > input.hidden').send_keys(os.getcwd()+'/' + file_name + '_{0}.csv'.format(file_id))
     browser.find_element_by_css_selector('dl.mapping-options > dd:nth-child(3) > label').click()
     browser.find_element_by_css_selector('div.batchWidget > div > div > form > div.buttons > div > a.button.ok').click()
-    if visible_in_time(browser,'#CountDown',30):                  
+    if visible_in_time(browser,'#CountDown',20):                  
         while 1:
             search_process = browser.find_element_by_css_selector('#CountDown').text.split('/')
             if search_process[0] == search_process[1]:
