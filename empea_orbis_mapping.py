@@ -19,6 +19,7 @@ import numpy as np
 import time
 import pandas as pd
 import win32com.client as win32
+import os
 
 
 def login_orbis(browser):
@@ -92,15 +93,15 @@ def split_table(file_name):
         datatable.loc[i*1000:(i+1)*1000].to_csv(file_name[:-4] + '_' + str(i) + '.csv', mode='w', index=True, sep='\t')
 
 
-def select_score(browser, total_page_num):
+def select_score(browser, total_page_num, start_page):
     # Go to Page 1
     page_input = browser.find_element_by_xpath('//li/input[@type="number"]')
     page_input.clear()
-    page_input.send_keys(1)
+    page_input.send_keys(start_page)
     page_input.send_keys(Keys.RETURN)
     print("Start Mapping!")
     time.sleep(1)
-    for page in range(0,total_page_num):
+    for page in range(start_page-1,total_page_num):
         innerHTML = browser.execute_script("return document.body.innerHTML")
         tree = html.fromstring(innerHTML)
         orbis_result = tree.xpath('//*[@id="matchedSelected"]/@data-selected')
@@ -111,12 +112,12 @@ def select_score(browser, total_page_num):
                 item_expand = browser.find_element_by_xpath('//tbody/tr[@data-id={0}]/td/label'.format(id+page*100))
                 item_expand.click()
                 try:
-#                    score = browser.find_element_by_xpath('//*[@id="Template" and not(string(@style))]/td[7]/div').text
+                    score = browser.find_element_by_xpath('//*[@id="Template" and not(string(@style))]/td[7]/div').text
                     nation_popped = browser.find_element_by_xpath('//*[@id="Template" and not(string(@style))]/td[4]/div').text
                     if nation == nation_popped or len(nation) == 3:
                         browser.find_element_by_xpath('//*[@id="Template" and not(string(@style))]/td[1]/label').click()
                         print(id+page*100)
-                        time.sleep(2)
+                        time.sleep(1.5)
                     else:
                         print("Mapping result rejected!")
                 except:
@@ -192,13 +193,13 @@ def data_scraping(browser):
 #     page_input.clear()
 #     page_input.send_keys(str(1))
 #     page_input.send_keys(Keys.RETURN)
-#     if visible_in_time(browser,'#resultsTable > tbody > tr > td.scroll-data > div > table > tbody > tr:nth-child(1) > td:nth-child(1)',20):
-#         pass
-#     else:
-#         print('Timeout!')
-#         exit()
 # =============================================================================
-    time.sleep(2)
+    if visible_in_time(browser,'#resultsTable > tbody > tr > td.scroll-data > div > table > tbody > tr:nth-child(1) > td:nth-child(1)',20):
+        pass
+    else:
+        print('Timeout!')
+        exit()
+    time.sleep(4)
     
     while page_done < total_pages:
         innerHTML = browser.execute_script("return document.body.innerHTML")
@@ -228,6 +229,21 @@ def data_scraping(browser):
     return company_data
 
 
+def select_file(browser, file_name, file_id):
+    browser.find_element_by_id('upload-now').click()
+    browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.batchWidget > div > div > form > div.view > div:nth-child(1) > input.hidden').send_keys(os.getcwd()+'/' + file_name + '_{0}.csv'.format(file_id))
+    browser.find_element_by_css_selector('dl.mapping-options > dd:nth-child(3) > label').click()
+    browser.find_element_by_css_selector('div.batchWidget > div > div > form > div.buttons > div > a.button.ok').click()
+    if visible_in_time(browser,'#CountDown',30):                  
+        while 1:
+            search_process = browser.find_element_by_css_selector('#CountDown').text.split('/')
+            if search_process[0] == search_process[1]:
+                time.sleep(5)
+                break
+            else:
+                time.sleep(1)
+                                                              
+
 ###### Main Function ######
 # Initializing
 login_url = "https://orbis4.bvdinfo.com/"
@@ -237,21 +253,20 @@ browser = webdriver.Chrome()
 
 login_orbis(browser)
 
-# Ready to go
-if input("Ready? (Y/n)\n") != 'Y':
-    exit()
-
-total_page_num = int(browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.title > h2 > span').text[:4])//100+1
-
-select_score(browser,total_page_num)
-company_mapping = create_mapping(browser,total_page_num)
-
-# Go to Results Page
-browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.pre-content > ul > li:nth-child(1) > a').click()
-
-company_data = data_scraping(browser)
-
-final_data = company_mapping.merge(company_data,left_on='mapped_bvdId',right_on='BvD ID number ', how='left')
-final_data.to_csv('Mapped_data.csv', mode='a', index=False)
+for num in range(5,12):
+    select_file(browser, 'EMPEA_raw_data', num)
+    
+    total_page_num = (int(browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.title > h2 > span').text[:4])-1)//100+1
+    
+    select_score(browser,total_page_num,1)
+    company_mapping = create_mapping(browser,total_page_num)
+    
+    # Go to Results Page
+    browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.pre-content > ul > li:nth-child(1) > a').click()
+    time.sleep(2)
+    company_data = data_scraping(browser)
+    
+    final_data = company_mapping.merge(company_data,left_on='mapped_bvdId',right_on='BvD ID number ', how='left')
+    final_data.to_csv('Mapped_data.csv', mode='a', index=False)
 
 print("Done!")
