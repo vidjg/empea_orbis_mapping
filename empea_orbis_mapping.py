@@ -390,7 +390,8 @@ def select_score(browser, total_page_num, start_page):
                         print("Mapping result rejected!")
                 except:
                     continue
-        browser.find_element_by_xpath('/html/body/div[2]/div[1]/div[4]/div/form/div[2]/ul/li[12]/img').click()
+        if page < total_page_num - 1:
+            browser.find_element_by_css_selector('div.navigation-footer > ul.navigation > li > img[data-action=next]').click()
 
 
 def create_mapping(browser, total_page_num):
@@ -421,7 +422,8 @@ def create_mapping(browser, total_page_num):
         data_temp['mapped_bvdId'] = id_list
         data_temp['mapping_score'] = tree.xpath('//td[@id="matchedScore"]/div/@class')
         company_mapping = pd.concat([company_mapping,data_temp])
-        browser.find_element_by_xpath('/html/body/div[2]/div[1]/div[4]/div/form/div[2]/ul/li[12]/img').click()
+        if page < total_page_num - 1:
+            browser.find_element_by_css_selector('div.navigation-footer > ul.navigation > li > img[data-action=next]').click()
     
     # Output mapping table
     company_mapping.to_csv('mapping.csv', mode='a', index=False)
@@ -525,7 +527,7 @@ browser = webdriver.Chrome()
 
 login_orbis(browser)
 
-for num in range(5,12):
+for num in range(6,12):
     select_file(browser, 'EMPEA_raw_data', num)
     
     total_page_num = (int(browser.find_element_by_css_selector('body > div.viewport.main > div.website > div.content > div > div.title > h2 > span').text[:4])-1)//100+1
